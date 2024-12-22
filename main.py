@@ -1,5 +1,4 @@
 from pyfiglet import Figlet
-from tabulate import tabulate
 import sys
 import csv
 import time

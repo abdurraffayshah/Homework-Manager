@@ -83,6 +83,5 @@ The main program handles the user interface:
 
 ## Future Improvements
 - Add more functionality for managing multiple students at once.
-- Implement error handling for invalid inputs.
 - Add a graphical user interface (GUI) for better user interaction.
 
